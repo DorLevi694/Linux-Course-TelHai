@@ -1,0 +1,18 @@
+
+The project name: p2p - peer-to-peer file sharing system.
+
+The project is a part of a linux course in tel-hai, The lecturer: Dr. Ron Sivan.
+
+******
+The file: "p2p.h"  wroting by Dr. Ron Sivan
+
+ *  @Author:   	Ron Sivan
+ *  @email:	ronny.sivan@gmail.com 
+ 
+The Client and Server sides wroting by me - Dor Levi.
+******
+
+compile commands: 
+
+compile server : cc -pthread p2pserver.c
+compile client : cc p2pclient.c

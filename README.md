@@ -1,3 +1,3 @@
 # C-language
 
-# created during a linux course. 
+# Created during a linux course. 
